@@ -1,0 +1,10 @@
+.styled-link {
+    color: #007bff; 
+    text-decoration: underline; 
+    cursor: pointer; 
+    margin: 10px;
+  }
+  
+  .styled-link:hover {
+    color: #0056b3; 
+  }

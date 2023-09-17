@@ -1,0 +1,10 @@
+.formatted-number {
+    font-size: 18px; /* Размер шрифта */
+    color: blue; /* Цвет текста */
+    font-weight: bold; /* Жирный шрифт */
+    /* Другие стили форматирования */
+  }
+
+p  {
+    font-size: 24px;
+}  

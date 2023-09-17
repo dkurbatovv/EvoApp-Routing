@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: #007bff; /* Синий цвет (можете выбрать другой) */
+    padding: 10px;
+}
+  
+  /* Стилизируем ссылки при наведении курсора */
+a:hover {
+    text-decoration: underline; /* Добавляем подчеркивание при наведении */
+    color: #0056b3; /* Сменяем цвет при наведении (можете выбрать другой) */
+}
+
+.styled-link-button {
+    background-color: #007bff; /* Цвет фона кнопки (синий) */
+    color: #fff; /* Цвет текста (белый) */
+    text-decoration: none; /* Убираем подчеркивание текста */
+    padding: 10px 20px; /* Внутренние отступы */
+    margin: 0px 10px 0px 0px;
+    border-radius: 5px; /* Скругление углов */
+    cursor: pointer; /* Изменение курсора при наведении */
+    font-size: 16px; /* Размер шрифта */
+    display: inline-block; /* Делаем элемент блочным для правильного расположения */
+  }
+  
+  .styled-link-button:hover {
+    background-color: #0056b3; /* Цвет фона при наведении */
+  }
